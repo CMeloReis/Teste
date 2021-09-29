@@ -1,1 +1,11 @@
 CARLA MELO REIS
+
+git init
+
+git status
+
+git add Dados.txt
+
+git commit -m "atualização"
+
+git push -u origin main
